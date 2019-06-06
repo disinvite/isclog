@@ -1,0 +1,21 @@
+{
+  "name": "isclog",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disinvite/isclog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disinvite/isclog/issues"
+  },
+  "homepage": "https://github.com/disinvite/isclog#readme"
+}
