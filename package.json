@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/disinvite/isclog#readme",
   "dependencies": {
+    "lowdb": "^1.0.0",
     "sax": "^1.2.4",
     "xml2js": "^0.4.19"
   }
